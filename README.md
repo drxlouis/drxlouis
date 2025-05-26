@@ -1,7 +1,7 @@
 # Hi there, I’m Louis! 👋
 
 🎓 **Student** from Belgium (just outside of Brussels), currently studying in Ghent.  
-⚽ Scouting leader, football enthusiast, and tech explorer.
+🏕️ Scouting leader, ⚽️ football enthusiast, and 💻 tech explorer.
 
 ---
 
@@ -9,7 +9,7 @@
 
 - **Languages:** JavaScript, TypeScript, Python
 - **Frameworks/Libraries:** React, Node.js, Three.js
-- **Interests:** AI agents, creative coding, and web experiences
+- **Interests:** fullstack development, AI agents,  
 
 ---
 
