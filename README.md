@@ -7,9 +7,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, TypeScript, Python
+- **Languages:** TypeScript, Python
 - **Frameworks/Libraries:** React, Node.js, Three.js
-- **Interests:** fullstack development, AI agents,  
+- **Interests:** fullstack development, ML, AI
 
 ---
 
@@ -17,19 +17,12 @@
 
 ### [project-wintercircus](https://github.com/drxlouis/project-wintercircus)
 A fun experiment using **Three.js** for interactive 3D web experiences.  
-Exploring creativity, code, and the magic of the web!
 
 ---
 
 ## 🌍 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/drxlouis/) (see bio)
-- 📍 From Belgium, studying in Ghent
-- 🏕️ Scouting leader | ⚽ Football player
-
----
-
-> “Code, create, explore — and always stay curious.”
 
 ---
 
