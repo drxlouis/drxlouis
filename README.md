@@ -22,7 +22,7 @@ A fun experiment using **Three.js** for interactive 3D web experiences.
 
 ## 🌍 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/drxlouis/) (see bio)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/drxlouis/](https://www.linkedin.com/in/louis-dierickx-694724362/))
 
 ---
 
