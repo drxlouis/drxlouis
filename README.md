@@ -3,7 +3,7 @@ src="./vakantie_Mostar_94.jpg">
 <h1 align="center">Hi 👋, I'm Louis</h1>
 <h3>Welcome to my GitHub! 🚀</h3>
 
-🎓 **Student** from Belgium (just outside of Brussels), currently studying in Ghent.  
+🎓 **Student** from Belgium, currently studying in Ghent.  
 🏕️ Scouting leader, ⚽️ football enthusiast and 💻 (tech) explorer.
 
 ---
