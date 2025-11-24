@@ -20,6 +20,13 @@ Core
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
+<a href="https://php.net" target="_blank" rel="noreferrer">
+  <img src="https://www.php.net/images/logos/php-logo-white.svg" alt="php" width="40" height="40"/>
+</a>
+<a href="https://laravel.com" target="_blank" rel="noreferrer">
+  <img src="https://imgs.search.brave.com/8wtSjnjYcEpnDzWdIV7yCjSQScOTaW4Ew96lN7vKD2g/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9hc3Nl/dHMuc3RpY2twbmcu/Y29tL2ltYWdlcy82/MmE0YzhjNWZkZWUx/NWQyOTA1MDA3Y2Eu/cG5n" alt="laravel" width="40" height="40"/>
+</a>
+
 
 Styling & UI tools
 <br><br>
